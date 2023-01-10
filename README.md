@@ -23,7 +23,7 @@ python love_calculator.py "John" "Jane"
 Contributions are always welcome! If you have suggestions for improvement or find a bug, please open an issue or a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/chat/LICENSE) file for details.
 
 Please note that this program is for entertainment purpose only and the love score generated should not be used as a basis for any serious relationship decision.
 You can try out a version published on [Repl.it](https://replit.com/@labelisaiah/Love-Calculator-by-Required?v=1)
