@@ -9,7 +9,7 @@ To use the program, clone this repository and run the  `love_calculator.py` scri
 
 ## Copy code
 ```
-git clone https://github.com/username/love-calculator.git
+git clone https://github.com/requiredcrx/love-calculator.git
 cd love-calculator
 python love_calculator.py "John" "Jane"
 ```
